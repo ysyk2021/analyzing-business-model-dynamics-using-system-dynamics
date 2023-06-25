@@ -1,5 +1,4 @@
-Chapter 6: Applying System Dynamics to Real-World Business Challenges: Building a Legacy of System Dynamics-Driven Solutions
-============================================================================================================================
+# Building a Legacy of System Dynamics-Driven Solutions
 
 Applying system dynamics to real-world business challenges is an essential step towards building a legacy of system dynamics-driven solutions. In this chapter, we will discuss strategies for applying system dynamics to real-world business challenges.
 

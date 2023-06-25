@@ -1,4 +1,4 @@
-Introduction: What is System Dynamics?
+What is System Dynamics?
 ======================================
 
 System dynamics is a methodology for modeling and analyzing complex systems over time. It involves mapping out the relationships between different variables and understanding how changes in these variables impact the behavior of the system as a whole. In this chapter, we will provide an overview of system dynamics and its application in business modeling.

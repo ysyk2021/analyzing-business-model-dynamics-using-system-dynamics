@@ -1,5 +1,4 @@
-Chapter 1: Understanding the Basics of System Dynamics: Developing Self-Awareness as a System Dynamics Analyst
-==============================================================================================================
+# Developing Self-Awareness as a System Dynamics Analyst
 
 System dynamics is a powerful tool for analyzing complex systems, such as business models. In this chapter, we will cover the basics of system dynamics and the importance of developing self-awareness as a system dynamics analyst.
 

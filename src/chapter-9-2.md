@@ -1,5 +1,4 @@
-Chapter 8: Implementing Changes Based on System Dynamics Analysis: Techniques for Integrating Changes into Existing Business Models
-===================================================================================================================================
+# Techniques for Integrating Changes into Existing Business Models
 
 Integrating changes based on system dynamics analysis into existing business models can be challenging, but it is essential for improving business performance. In this chapter, we will cover techniques for integrating changes into existing business models.
 

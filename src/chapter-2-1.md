@@ -1,5 +1,4 @@
-Chapter 1: Understanding the Basics of System Dynamics: Overview of System Dynamics Theory
-==========================================================================================
+# Overview of System Dynamics Theory
 
 System dynamics is a methodology for modeling and analyzing complex systems over time. It involves mapping out the relationships between different variables and understanding how changes in these variables impact the behavior of the system as a whole. In this chapter, we will provide an overview of system dynamics theory.
 

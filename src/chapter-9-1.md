@@ -1,5 +1,4 @@
-Chapter 8: Implementing Changes Based on System Dynamics Analysis: Recognizing the Importance of Implementing Changes Based on System Dynamics Analysis
-=======================================================================================================================================================
+# Recognizing the Importance of Implementing Changes Based on System Dynamics Analysis
 
 System dynamics analysis provides organizations with valuable insights into the dynamics that drive business performance. However, these insights are only useful if they are acted upon. In this chapter, we will cover the importance of implementing changes based on system dynamics analysis.
 

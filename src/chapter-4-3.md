@@ -1,5 +1,4 @@
-Chapter 3: Developing Effective System Dynamics Models: Developing Effective Modeling Strategies
-================================================================================================
+# Developing Effective Modeling Strategies
 
 Developing effective system dynamics models is essential for gaining insights into business performance and developing strategies for achieving sustainable success. In this chapter, we will discuss effective modeling strategies.
 

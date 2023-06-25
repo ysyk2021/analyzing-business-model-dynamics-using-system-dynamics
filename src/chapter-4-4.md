@@ -1,5 +1,4 @@
-Chapter 3: Developing Effective System Dynamics Models: Building a Culture of Innovation and Experimentation
-============================================================================================================
+# Building a Culture of Innovation and Experimentation
 
 Developing effective system dynamics models is essential for gaining insights into business performance and developing strategies for achieving sustainable success. In this chapter, we will discuss how organizations can build a culture of innovation and experimentation to develop effective system dynamics models.
 

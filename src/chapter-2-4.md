@@ -1,5 +1,4 @@
-Chapter 1: Understanding the Basics of System Dynamics: Building Trust in the Process of Using System Dynamics
-==============================================================================================================
+# Building Trust in the Process of Using System Dynamics
 
 System dynamics is a powerful tool for analyzing complex systems, such as business models. In this chapter, we will cover the basics of system dynamics and how to build trust in the process of using it.
 

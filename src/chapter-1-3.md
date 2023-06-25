@@ -1,4 +1,4 @@
-Introduction: Benefits of Using System Dynamics to Analyze Business Model Dynamics
+Benefits of Using System Dynamics to Analyze Business Model Dynamics
 ==================================================================================
 
 Analyzing business model dynamics is essential for understanding how different variables and relationships impact business performance over time. System dynamics is a powerful tool for analyzing complex systems, such as business models. In this chapter, we will cover the benefits of using system dynamics to analyze business model dynamics.

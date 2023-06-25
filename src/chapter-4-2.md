@@ -1,5 +1,4 @@
-Chapter 3: Developing Effective System Dynamics Models: Techniques for Creating Accurate and Relevant Models
-============================================================================================================
+# Techniques for Creating Accurate and Relevant Models
 
 Creating accurate and relevant system dynamics models is crucial for effective business model analysis. In this chapter, we will cover techniques for creating accurate and relevant models.
 
