@@ -1,4 +1,4 @@
-Conclusion: Recap of Key Takeaways
+Recap of Key Takeaways
 ==================================
 
 In this book, we have explored the concept of system dynamics and its application in analyzing business model dynamics. We have covered key concepts such as stocks, flows, feedback loops, delay, and nonlinearity, and discussed techniques for identifying different components of a system, including stakeholder analysis and mapping out the system. We have also examined strategies for implementing changes based on system dynamics analysis, including modifying the existing model, developing a new sub-model, using scenario testing, and monitoring and adjusting.
