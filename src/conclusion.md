@@ -1,8 +1,5 @@
 # Conclusion
 
-Conclusion
-==========
-
 Analyzing business model dynamics using system dynamics is a powerful tool for understanding the complexities of business performance over time. In this book, we have covered key concepts in system dynamics theory, techniques for modeling and analyzing complex systems, and strategies for implementing changes based on system dynamics analysis.
 
 Recap of Key Takeaways
