@@ -1,5 +1,3 @@
-Chapter 3: Developing Effective System Dynamics Models
-======================================================
 
 Effective system dynamics models are essential for analyzing business model dynamics and making informed decisions. In this chapter, we will cover the following sub-chapters:
 

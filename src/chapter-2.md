@@ -1,5 +1,3 @@
-Chapter 1: Understanding the Basics of System Dynamics
-======================================================
 
 System dynamics is a powerful tool for analyzing complex systems, such as business models. In this chapter, we will cover the basics of system dynamics, including an overview of system dynamics theory, identifying different components of a system, developing self-awareness as a system dynamics analyst, and building trust in the process of using system dynamics.
 
