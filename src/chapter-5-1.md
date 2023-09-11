@@ -1,5 +1,4 @@
-Chapter 4: The Importance of Analyzing Key Variables in Business Model Dynamics
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of analyzing key variables in business model dynamics using system dynamics. Key variables are the essential components that have a significant impact on the behavior and performance of a business model. Understanding and effectively analyzing these variables is crucial for gaining insights into the underlying dynamics, drivers, and outcomes of a business model. This chapter emphasizes the importance of analyzing key variables and their role in business model analysis.
 

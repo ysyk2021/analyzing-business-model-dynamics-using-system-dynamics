@@ -1,5 +1,4 @@
-Chapter 10: Addressing Common Obstacles and Challenges in Applying System Dynamics to Real-World Business Challenges
-====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will address the common obstacles and challenges that businesses may face when applying system dynamics to real-world business challenges. While system dynamics offers valuable insights into business model dynamics, its successful implementation can be hindered by various factors. By understanding and addressing these obstacles, businesses can enhance their ability to effectively apply system dynamics and overcome challenges in analyzing and addressing complex business problems.
 

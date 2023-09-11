@@ -1,5 +1,4 @@
-Chapter 6: Building a Culture of Data-Driven Decision-Making
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of building a culture of data-driven decision-making within the context of analyzing business model dynamics using system dynamics. A data-driven decision-making culture emphasizes the use of reliable data, analytics, and evidence-based insights to inform and guide decision-making processes. This chapter discusses the significance of fostering such a culture and provides strategies for organizations to build and sustain it.
 

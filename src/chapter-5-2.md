@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Identifying and Analyzing Key Variables
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for identifying and analyzing key variables in the context of analyzing business model dynamics using system dynamics. Key variables are the essential factors that significantly influence the behavior and performance of a business model. Understanding and effectively analyzing these variables is crucial for developing accurate and insightful system dynamics models. This chapter presents various techniques that can assist in identifying and analyzing key variables.
 

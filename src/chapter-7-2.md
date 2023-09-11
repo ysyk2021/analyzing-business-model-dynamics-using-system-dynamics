@@ -1,5 +1,4 @@
-Chapter 8: Techniques for Integrating System Dynamics into Problem-Solving
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for integrating system dynamics into problem-solving processes within the context of analyzing business model dynamics. System dynamics provides a powerful framework and set of tools for understanding complex systems and addressing dynamic challenges in business models. This chapter discusses various techniques that can be utilized to effectively integrate system dynamics into problem-solving efforts.
 

@@ -1,5 +1,4 @@
-Chapter 9: The Importance of Applying System Dynamics to Real-World Business Challenges
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of applying system dynamics to real-world business challenges. System dynamics provides a powerful framework for understanding and analyzing complex systems, such as business models, in dynamic environments. By applying system dynamics methodologies and tools, businesses can gain valuable insights into the behavior and performance of their business models. This chapter highlights the importance of using system dynamics to address real-world business challenges effectively.
 

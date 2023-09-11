@@ -1,5 +1,4 @@
-Chapter 8: Techniques for Testing and Validating Models Effectively
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques for testing and validating business model dynamics using system dynamics. Testing and validation are crucial steps in ensuring the accuracy, reliability, and usefulness of models in understanding and analyzing complex business systems. This chapter will delve into the essential techniques that can be employed to test and validate system dynamics models effectively.
 

@@ -1,5 +1,4 @@
-Chapter 2: Overview of System Dynamics Theory
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of system dynamics theory as it pertains to analyzing business model dynamics. System dynamics is a modeling approach that allows us to understand the complex behavior of systems over time. This chapter will introduce the key concepts and principles of system dynamics theory, providing a foundation for understanding the subsequent chapters on analyzing business model dynamics.
 

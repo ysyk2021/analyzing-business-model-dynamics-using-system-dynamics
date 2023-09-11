@@ -1,5 +1,4 @@
-Chapter 4: Recognizing the Importance of Testing and Validating System Dynamics Models
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical importance of testing and validating system dynamics models in analyzing business model dynamics. Testing and validation are essential steps in ensuring the accuracy, reliability, and applicability of system dynamics models. This chapter will delve into the reasons why testing and validation are vital and the potential consequences of neglecting these crucial processes.
 

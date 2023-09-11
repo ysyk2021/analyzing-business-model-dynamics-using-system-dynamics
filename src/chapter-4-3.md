@@ -1,5 +1,4 @@
-Chapter 6: Developing Effective Modeling Strategies
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key considerations and strategies for developing effective system dynamics models in the analysis of business model dynamics. Building accurate and insightful models requires careful planning, thoughtful design, and a systematic approach. This chapter will delve into the essential steps and strategies that can help modelers develop effective system dynamics models for analyzing business model dynamics.
 

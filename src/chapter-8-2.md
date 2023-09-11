@@ -1,5 +1,4 @@
-Chapter 4: Techniques for Building Effective Stakeholder Relationships
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques for building effective stakeholder relationships within the context of analyzing business model dynamics using system dynamics. Stakeholders play a critical role in the success of any business model analysis project, and their involvement and support are essential for achieving meaningful results. This chapter discusses the significance of cultivating strong stakeholder relationships and provides strategies for organizations to build and maintain them.
 

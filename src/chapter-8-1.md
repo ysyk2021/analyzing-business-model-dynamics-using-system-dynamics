@@ -1,5 +1,4 @@
-Chapter 6: Recognizing the Importance of Collaborating with Stakeholders in Business Model Dynamics Analysis
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will emphasize the significance of collaborating with stakeholders in business model dynamics analysis within the context of using system dynamics. Stakeholders play a crucial role in shaping business models, understanding industry dynamics, and identifying key variables that impact business performance. This chapter explores the importance of stakeholder collaboration and provides strategies for effectively engaging stakeholders throughout the analysis process.
 

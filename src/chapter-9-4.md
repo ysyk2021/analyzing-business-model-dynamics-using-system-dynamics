@@ -1,5 +1,4 @@
-Chapter 10: Building a Culture of Continuous Improvement and Growth
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of building a culture of continuous improvement and growth within the context of analyzing business model dynamics using system dynamics. A culture of continuous improvement and growth emphasizes the value of learning, innovation, and adaptability in driving business success. This chapter discusses the significance of fostering such a culture and provides strategies for organizations to build and sustain it.
 

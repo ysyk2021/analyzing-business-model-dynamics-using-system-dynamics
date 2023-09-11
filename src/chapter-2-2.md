@@ -1,5 +1,4 @@
-Chapter 3: Identifying Different Components of a System
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying and understanding the different components that comprise a business model system. By recognizing and analyzing these components, we can gain a comprehensive understanding of how they interact to shape the dynamics of the business model. This chapter will provide insights into the various elements that make up a business model system.
 

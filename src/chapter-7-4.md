@@ -1,5 +1,4 @@
-Chapter 8: Building a Legacy of System Dynamics-Driven Solutions
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of building a legacy of system dynamics-driven solutions within the context of analyzing business model dynamics. A legacy refers to a lasting impact or contribution that endures beyond individual projects or initiatives. By establishing and nurturing a legacy of system dynamics-driven solutions, organizations can leverage the methodology's strengths to address complex business challenges consistently and effectively over time. This chapter discusses the significance of building such a legacy and provides strategies for organizations to achieve it.
 

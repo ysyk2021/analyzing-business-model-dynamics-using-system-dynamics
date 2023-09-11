@@ -1,5 +1,4 @@
-Chapter 7: Developing Effective Data Collection and Analysis Skills
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing effective data collection and analysis skills for analyzing business model dynamics using system dynamics. Accurate and insightful data collection and analysis are critical for understanding the behavior of complex systems, identifying patterns and trends, and making informed decisions. This chapter will provide guidance and strategies for enhancing data collection and analysis skills in the context of business model dynamics.
 

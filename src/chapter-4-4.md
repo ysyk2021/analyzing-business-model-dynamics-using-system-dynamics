@@ -1,5 +1,4 @@
-Chapter 5: Building a Culture of Innovation and Experimentation
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of building a culture of innovation and experimentation within organizations. In a dynamic business environment, fostering a culture that encourages creativity, risk-taking, and continuous learning is essential for adapting to change, driving business model dynamics, and staying competitive. This chapter will provide insights and strategies for cultivating a culture of innovation and experimentation.
 
